@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+// .header{
+//     padding: 20px 0;
+//     background-color: #1f2124;
+
+//     &_title{
+//         color: tomato;
+//     }
+// }
+
+// .shop{
+//     &_top{
+//         padding: 20px 0;
+//         border-bottom: 1px solid silver;
+//         margin-bottom: 20px;
+//     }
+//     &_content{
+
+//     }
+// }
+
+// .products{
+
+// }
+
+// .product{
+//     width: 100px;
+//     height: 100px;
+//     background-color: silver;
+// }
