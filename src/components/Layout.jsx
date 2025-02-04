@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Outlet } from 'react-router-dom';
 
 import ThemeContext from '../HOC/Theme';
+import '../styles/style.css'
 
 const Layout = () => {
 
